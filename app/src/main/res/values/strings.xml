@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Clase26-Tienda</string>
+    <string-array name="options">
+        <item>Drinks</item>
+        <item>Foods</item>
+        <item>Store</item>
+    </string-array>
+</resources>
